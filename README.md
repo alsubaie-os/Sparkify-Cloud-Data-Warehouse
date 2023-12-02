@@ -1,5 +1,6 @@
 # Project: Build A Cloud Data Warehouse
 
+<img src="img/Cloud Data Warehouses.png" alt="Nanodegree Image" width="1000" >
 
 ## Project description
 
